@@ -3,6 +3,8 @@
 
   ## Description:
   A Google Books API built with MERN stack and Apollo GraphQL that allows users to create an account, search for books, and save/delete books from their collection.
+  
+![book-search-engine screenshot](https://user-images.githubusercontent.com/96707052/178169002-7eeb723c-8abd-4d76-8004-0a638329b1e7.JPG)
 
   ## Table of Contents
   - [Description](#description)
